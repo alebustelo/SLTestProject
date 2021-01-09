@@ -1,3 +1,5 @@
+@Library('SLPipeline') _
+
 SLTestPipeline {
   enableFirstThing = true
   enableSecondThing = false
