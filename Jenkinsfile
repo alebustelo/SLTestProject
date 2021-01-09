@@ -1,5 +1,5 @@
 SLTestPipeline {
   enableFirstThing = true
   enableSecondThing = false
-  // stringThing = 'This is a string test'
+  stringThing = 'This is a string test'
 }
